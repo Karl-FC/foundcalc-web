@@ -93132,7 +93132,7 @@ a30(){this.B(new A.aqD(this))},
 OX(a){this.B(new A.aqM(this,a))},
 a3b(){this.B(new A.aqG(this))},
 P3(a){this.B(new A.aqP(this,a))},
-W(c0){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4=this,a5=4281742388,a6=null,a7=4280243085,a8=4282532160,a9="Analysis of Footings",b0=4282466625,b1="Design of Footings",b2="Combined Footing",b3="Mat Foundation",b4="Deep Foundation",b5="Retaining Wall",b6=A.ae(a5),b7=A.e("Foundation Calculator Tabs",a6,a6,a6,a6,A.c(a6,a6,B.b,a6,a6,a6,a6,a6,a6,a6,a6,a6,a6,a6,a6,a6,a6,!0,a6,a6,a6,a6,a6,a6,a6,a6),a6,a6),b8=A.ae(4280887336),b9=a4.d
+W(c0){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4=this,a5=4281742388,a6=null,a7=4280243085,a8=4282532160,a9="Analysis of Footings",b0=4282466625,b1="Design of Footings",b2="Combined Footing",b3="Mat Foundation",b4="Deep Foundation",b5="Retaining Wall",b6=A.ae(a5),b7=A.e("FoundCalc",a6,a6,a6,a6,A.c(a6,a6,B.b,a6,a6,a6,a6,a6,a6,a6,a6,a6,a6,a6,a6,a6,a6,!0,a6,a6,a6,a6,a6,a6,a6,a6),a6,a6),b8=A.ae(4280887336),b9=a4.d
 b9===$&&A.a()
 s=A.ae(a7)
 r=A.ae(a7)
@@ -93176,7 +93176,7 @@ b9=a4.d
 r=t.rc
 o=a4.e
 o===$&&A.a()
-m=A.e("Welcome to Block B\u2019s Footing Calculator!",a6,a6,a6,a6,A.c(a6,a6,B.b,a6,a6,a6,a6,a6,a6,a6,a6,24,a6,a6,B.o,a6,a6,!0,a6,a6,a6,a6,a6,a6,a6,a6),B.a5,a6)
+m=A.e("Welcome to FoundCalc, Block B\u2019s Footing Calculator!",a6,a6,a6,a6,A.c(a6,a6,B.b,a6,a6,a6,a6,a6,a6,a6,a6,24,a6,a6,B.o,a6,a6,!0,a6,a6,a6,a6,a6,a6,a6,a6),B.a5,a6)
 l=A.y(a6,45,a6)
 k=A.e("What would you like to calculate?",a6,a6,a6,a6,A.c(a6,a6,B.b,a6,a6,a6,a6,a6,a6,a6,a6,20,a6,a6,a6,a6,a6,!0,a6,a6,a6,a6,a6,a6,a6,a6),B.a5,a6)
 j=A.y(a6,20,a6)
